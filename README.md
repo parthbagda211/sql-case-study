@@ -87,9 +87,8 @@ This case study focuses on using Foodie-Fi data; subscription-style digital data
    
 ---
 ## Case Study Solutions
-- [Customer Journey](https://github.com/avishek-choudhary/Case-Study-3-Foodie-Fi/blob/main/Customer%20Journey.md)
-- [Data Analysis Questions](https://github.com/avishek-choudhary/Case-Study-3-Foodie-Fi/blob/main/Data%20Analysis.md)   
+- [Customer Journey](https://github.com/parthbagda211/sql-case-study/blob/branch/Customer%20Journey.md)
+- [Data Analysis Questions](https://github.com/parthbagda211/sql-case-study/blob/branch//Data%20Analysis.md)   
    
  ---
- ## Resources
- - [Article](https://avishek-choudhary.github.io/projects/Foodie-Fi.html)
+
