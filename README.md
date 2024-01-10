@@ -1,9 +1,4 @@
-# Case Study #3 : Foode-Fi
-<p align="center" style="margin-bottom: 0px !important;">
-<img src="https://8weeksqlchallenge.com/images/case-study-designs/3.png" width="540" height="540">
-
----
-*This repository hosts the solutions to the 3rd challenge (Week 3) of the 8 Weeks SQL Challenge by DannyMa. [Click here to view the full challenge](https://8weeksqlchallenge.com/case-study-3/)*
+# Case Study: Foode-Fi
 
 ---
 ##  Table of Contents
